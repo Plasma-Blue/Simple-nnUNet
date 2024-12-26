@@ -1,6 +1,6 @@
 [project]
-name = "nnunetv2"
-version = "2.5.1"
+name = "simple-nnunet"
+version = "2024.12.26"
 requires-python = ">=3.9"
 description = "nnU-Net is a framework for out-of-the box image segmentation."
 readme = "readme.md"
